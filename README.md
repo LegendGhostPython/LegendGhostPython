@@ -10,16 +10,16 @@ internacional.
 
 
 ## 🚀 O que me fez querer entrar na área de T.I?
-$${\color{lime}
-\text{Sempre fui muito curioso sobre como tudo funciona e por que funciona,}\\
-\text{e o que preciso aprender para construir aquilo que imagino.}\\
-\text{Comecei meus primeiros projetos aos 16 anos com modelagem,}\\
-\text{animações e desenvolvimento de jogos. Hoje, aos 30 anos,}\\
-\text{vejo isso como o começo de tudo, onde aprendi a aprender.}
-}$$
+>[!IMPORTANT]
+>Sempre fui muito curioso sobre como tudo funciona e por que funciona,
+e o que preciso aprender para construir aquilo que imagino.
+Comecei meus primeiros projetos aos 16 anos com modelagem,
+animações e desenvolvimento de jogos. Hoje, aos 30 anos,
+vejo isso como o começo de tudo, onde aprendi a aprender.
 
 ## 🎯 Como eu me imagino daqui a 10 anos?
-Acho que no geral é realizar esse tão grandioso sonho: colocar em prática tudo o que está na minha imaginação e conquistar tudo aquilo que fui feito para conquistar.
+>[!NOTE]
+>Acho que no geral é realizar esse tão grandioso sonho: colocar em prática tudo o que está na minha imaginação e conquistar tudo aquilo que fui feito para conquistar.
 
 ## 🛠️ Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,3 +32,7 @@ Acho que no geral é realizar esse tão grandioso sonho: colocar em prática tud
 ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📫 Contato
+- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/michel-de-oliveira-silva-6469a3331?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **E-mail:** legendghostpython@gmail.com
