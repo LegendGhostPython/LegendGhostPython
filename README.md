@@ -21,6 +21,9 @@ Acho que no geral é realizar esse tão grandioso sonho, é realizar tudo que es
 ![MySQL]
 
 <style>
+body{
 background:"blue";
 color:"green";
+
+}
 </style>
