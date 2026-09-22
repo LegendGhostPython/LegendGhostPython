@@ -34,5 +34,5 @@ vejo isso como o começo de tudo, onde aprendi a aprender.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📫 Contato
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/michel-de-oliveira-silva-6469a3331?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/michel-de-oliveira-silva-6469a3331?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **E-mail:** legendghostpython@gmail.com
