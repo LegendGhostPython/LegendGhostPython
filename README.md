@@ -1,19 +1,21 @@
 # Michel de Oliveira Silva
 
 ## 👨‍💻 Quem sou Eu?
-$${\color{red}\text{{Olá! Meu nome é Michel, tenho atualmente 30 anos e estou no}}$$
-$${color{red}\text{início da faculdade de Análise e Desenvolvimento de Sistemas.}}$$
-$${color{red}\text{No geral, tenho vários conhecimentos que ainda estou aprimorando,}}$$
-$${color{red}\text{e pretendo ingressar na área, fazer um estágio e até mesmo seguir uma carreira}}$$
-$${color{red}\text{internacional.}}$$
+$${\color{red}
+\text{Olá! Meu nome é Michel, tenho atualmente 30 anos e estou no}\\
+\text{início da faculdade de Análise e Desenvolvimento de Sistemas.}\\
+\text{No geral, tenho vários conhecimentos que ainda estou aprimorando,}\\
+\text{e pretendo ingressar na área, fazer um estágio e até mesmo seguir uma carreira}\\
+\text{internacional.}
+}$$
 
 ## 🚀 O que me fez querer entrar na área de T.I?
 $${\color{lime}
-\text{Sempre fui muito curioso sobre como tudo funciona e por que funciona,}}$$
-$${\color{lime}\text{e o que preciso aprender para construir aquilo que imagino.}}$$
-$${\color{lime}\text{Comecei meus primeiros projetos aos 16 anos com modelagem,}}$$
-$${\color{lime}\text{animações e desenvolvimento de jogos. Hoje, aos 30 anos,}}$$
-$${color{lime}\text{vejo isso como o começo de tudo, onde aprendi a aprender.}
+\text{Sempre fui muito curioso sobre como tudo funciona e por que funciona,}\\
+\text{e o que preciso aprender para construir aquilo que imagino.}\\
+\text{Comecei meus primeiros projetos aos 16 anos com modelagem,}\\
+\text{animações e desenvolvimento de jogos. Hoje, aos 30 anos,}\\
+\text{vejo isso como o começo de tudo, onde aprendi a aprender.}
 }$$
 
 ## 🎯 Como eu me imagino daqui a 10 anos?
