@@ -4,7 +4,11 @@ Olá,Meu nome é Michel, tenho atualmente 30 anos, estou no Início da Faculdade
 
 ## O que me fez querer entrar na área de T.I?
 $${\color{lime}\text{
-muito curioso em questão, a como tudo funciona, por que funciona, e hoje o que eu preciso saber +pra fazer aquilo que eu vi, comecei a fazer meus primeiros projetos com 16 anos, modelagem, animações, Mexer no geral com desenvolvimento de jogos, e hoje aos 30 anos, eu olho isso como um começo de tudo, e eu aprendi a aprender nessa época.}}$$
+muito curioso em questão, a como tudo funciona, por que funciona,}\\ 
+\text{e hoje o que eu preciso saber +pra fazer aquilo que eu vi,}\\
+\text{comecei a fazer meus primeiros projetos com 16 anos, modelagem,}\\
+\text{animações, Mexer no geral com desenvolvimento de jogos, e hoje aos 30 anos,}\\
+\text{eu olho isso como um começo de tudo, e eu aprendi a aprender nessa época.}}$$
 
 ## Como eu me imagino daqui 10 anos?
 Acho que no geral é realizar esse tão grandioso sonho, é realizar tudo que está na minha imaginação, e conquistar tudo aquilo que eu fui feito pra conquistar.
