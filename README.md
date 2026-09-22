@@ -3,9 +3,17 @@
 ## 👨‍💻 Quem sou Eu?
 '''
 -Olá! Meu nome é Michel, tenho atualmente 30 anos e estou no
+'''
+'''
 -início da faculdade de Análise e Desenvolvimento de Sistemas.
+'''
+'''
 -No geral, tenho vários conhecimentos que ainda estou aprimorando,
+'''
+'''
 -e pretendo ingressar na área, fazer um estágio e até mesmo seguir uma carreira
+'''
+'''
 -internacional.
 '''
 
